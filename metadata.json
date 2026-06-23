@@ -1,0 +1,6 @@
+{
+  "name": "The Super App",
+  "description": "A feature-rich dashboard application with news, weather, notes, timer and movie discovery",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
